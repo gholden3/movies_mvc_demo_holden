@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y4gpEuHdtS5u+QmbGJDV+lq5X/ReTfkLVBoiswAzxILJMYK+aFG4tpConKRdB8CHB3HMrlOXH/Mi2AFbOuSj6w==",
+  "dgSpecHash": "dNr0UndEyD+lU1pM8rl8HlCxkt3PONiE7l5DHTT5b3qVHOU7tvMaT1SoQH1pQjEpIR2KTh1gpY1d3qiFusP6+Q==",
   "success": true,
-  "projectFilePath": "/Users/pivotal/workspace/dotnet-core-hello-world/MvcMovie/MvcMovie.csproj",
+  "projectFilePath": "/Users/pivotal/workspace/MvcMovie/MvcMovie.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

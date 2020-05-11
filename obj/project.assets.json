@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pivotal/workspace/dotnet-core-hello-world/MvcMovie/MvcMovie.csproj",
+      "projectUniqueName": "/Users/pivotal/workspace/MvcMovie/MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "/Users/pivotal/workspace/dotnet-core-hello-world/MvcMovie/MvcMovie.csproj",
+      "projectPath": "/Users/pivotal/workspace/MvcMovie/MvcMovie.csproj",
       "packagesPath": "/Users/pivotal/.nuget/packages/",
-      "outputPath": "/Users/pivotal/workspace/dotnet-core-hello-world/MvcMovie/obj/",
+      "outputPath": "/Users/pivotal/workspace/MvcMovie/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/pivotal/.nuget/NuGet/NuGet.Config"
